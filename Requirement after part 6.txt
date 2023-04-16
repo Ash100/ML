@@ -1,0 +1,29 @@
+We will build a kind of web application and subsequently run it for pIC50 prediction of our unknown drugs.
+To proceed, plus follow this document accordingly.
+
+1. Download Anaconda Distribution to your computer. Open below link, download windows distribution, and install it as 
+a normal installation.
+https://www.anaconda.com/products/distribution
+
+2. Once the installation is complete, click the window logo located in the left bottom of your screen. Find "Anaconda Navigator"
+and click it open. Once the Navigator is open on the screen, click lauch below the "PowerShell Promot", and wait. 
+Now you can see, a kind of blank command prompt window on the screen. 
+
+3. Creat your environment by typing the following code.
+conda create --name my_env python=3.8 numpy pandas
+#Now activate your environment by running,
+conda activate my_env
+
+4. Download and install Streamlit with the following command
+conda install -c anaconda streamlit
+
+5. update streamlit
+conda update -c conda-forge streamlit
+
+6. Download the Bioactivity folder to your computer and copy descriptor_list, descriptor_output and list of your 
+drugs like example_P2Y1 to the folder.
+
+6. Run the command in the powershell which is already open
+streamlit run app.py
+
+7. Perform prediction

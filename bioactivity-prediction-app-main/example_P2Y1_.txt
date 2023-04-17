@@ -1,0 +1,11 @@
+CC(=cccc(c)(c1ccc2(c1c(cc3c2(cc(c4c3(ccc(c4(c)c)o)c)oc5c(c(c(c(o5)co)oc6c(c(c(c(o6)co)o)o)o)o)o)c)o)c)oc7c(c(c(c(o7)co)o)o)o)c 85238297
+CC(=cccc(c)(c1ccc2(c1c(cc3c2(ccc4c3(ccc(c4(c)c)oc5c(c(c(c(o5)co)o)o)o)c)c)o)c)oc6c(c(c(c(o6)coc7c(c(c(c(o7)co)o)o)o)o)o)o)c 44584555
+CCc(=cc1cc(c2ccc3(c2c(o1)cc4c3(ccc5c4(ccc(c5(c)c)oc6c(c(c(c(o6)co)o)o)o)c)c)c)(c)oc7c(c(c(c(o7)co)o)o)o)c 163030965
+CC(=cccc(c)(c1ccc2(c1c(cc3c2(ccc4c3(ccc(c4(c)c)oc5c(c(c(c(o5)co)o)o)o)c)c)o)c)oc6c(c(c(c(o6)coc7c(c(c(c(o7)co)o)o)o)o)o)o)c 13059252
+CC1c(c(c(c(o1)occ2c(c(c(c(o2)oc3=cc(=c4c(=o)cc(oc4=c3)c5=cc(=c(c=c5)oc)o)o)o)o)o)o)o)o 129010007
+CC1ccc2(c(c3c(o2)cc4c3(ccc5c4ccc6c5(ccc(c6)oc7c(c(c(c(o7)coc8c(c(c(c(o8)c)o)o)o)o)o)oc9c(c(c(co9)o)o)o)c)c)c)oc1 44203608
+CC=cc(=cc=c1c2=cc(=o)c3=c(o2)c(=c(c=c3o)o)c4=c(c=cc(=c4)c5=cc(=o)c6=c(c=c(c=c6o5)o)o)o)o 5281600
+CC1c(c(c(c(o1)occ2c(c(c(c(o2)oc3=cc(=c4c(=o)cc(oc4=c3)c5=cc(=c(c=c5)oc)o)o)o)o)o)o)o)o 10621
+CC1ccc2(c(c3c(o2)cc4c3(ccc5c4ccc6c5(ccc(c6)oc7c(c(c(c(o7)coc8c(c(c(c(o8)c)o)o)o)oc9c(c(c(co9)o)o)o)o)oc2c(c(c(c(o2)co)o)o)o)c)c)c)oc1 44203607
+CC1c2c(cc3c2(ccc4c3ccc5c4(ccc(c5)oc6c(c(c(c(o6)co)oc7c(c(c(c(o7)c)o)o)o)o)oc8c(c(c(c(o8)co)o)o)o)c)c)oc19ccc(=c)co9 158359495
+
